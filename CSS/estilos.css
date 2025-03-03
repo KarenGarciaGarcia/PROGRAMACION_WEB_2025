@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: rgb(221, 7, 7);
+}
+.parrafo-principal{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(5, 2, 15);
+}
+.imagenes{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
